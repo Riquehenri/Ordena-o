@@ -51,3 +51,6 @@ SelectionSort -> iterações: 190 | trocas: 19
 👉 O Selection Sort teve menos trocas, mas mais iterações.
 
 👉 Os algoritmos Bubble e Cocktail se destacaram no melhor caso.
+
+<img width="428" height="464" alt="image" src="https://github.com/user-attachments/assets/e6bd3d38-42c2-459a-88a4-d289354e5d42" />
+
