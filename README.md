@@ -45,3 +45,9 @@ SelectionSort -> iterações: 190 | trocas: 19
 | Melhor caso (vetor ordenado) | **Bubble Sort** / **Cocktail Sort** |
 | Pior caso (vetor invertido)  | **Comb Sort**                       |
 | Médio caso (semi ordenado)   | **Comb Sort** ou **Bucket Sort**    |
+
+👉 O Comb Sort apresentou o melhor equilíbrio entre desempenho e simplicidade.
+
+👉 O Selection Sort teve menos trocas, mas mais iterações.
+
+👉 Os algoritmos Bubble e Cocktail se destacaram no melhor caso.
